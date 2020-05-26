@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg3776"
+   width="512"
+   height="2048"
+   viewBox="0 0 512 2048"
+   sodipodi:docname="rocket.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/xing/Documents/rocketsub/texture/rocket.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata3782">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3780" />
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10000"
+     guidetolerance="10"
+     inkscape:pageopacity="0.19607843"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2984"
+     inkscape:window-height="1618"
+     id="namedview3778"
+     showgrid="true"
+     inkscape:zoom="1.9877931"
+     inkscape:cx="61.14037"
+     inkscape:cy="1198.499"
+     inkscape:window-x="88"
+     inkscape:window-y="54"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3933"
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-perpendicular="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-tangential="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3893"
+       spacingx="32"
+       spacingy="16"
+       dotted="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="bg"
+     transform="translate(0,1024)"
+     sodipodi:insensitive="true">
+    <rect
+       id="rect3828"
+       width="512"
+       height="2048"
+       x="0"
+       y="-1024"
+       style="fill:#ffffff;stroke-width:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="1"
+     transform="translate(0,1024)">
+    <g
+       id="g3879"
+       transform="matrix(0.5,0,0,0.203125,0,-1024)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         y="0"
+         x="0"
+         height="1024"
+         width="256"
+         id="rect3826" />
+      <rect
+         y="0"
+         x="512"
+         height="1024"
+         width="256"
+         id="rect3826-3" />
+    </g>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       transform="matrix(0.5,0,0,-0.015625,128,-800)"
+       id="g3899">
+      <rect
+         id="rect3895"
+         width="256"
+         height="1024"
+         x="0"
+         y="0" />
+      <rect
+         id="rect3897"
+         width="256"
+         height="1024"
+         x="512"
+         y="0" />
+    </g>
+    <rect
+       style="fill:#000000"
+       id="rect3901"
+       width="512"
+       height="16"
+       x="0"
+       y="-800" />
+    <g
+       id="g3933"
+       transform="translate(64,32)">
+      <g
+         id="g3951">
+        <g
+           id="g3921"
+           style=""
+           transform="translate(-64,-32)">
+          <rect
+             style="fill:#000000"
+             id="rect3903"
+             width="64"
+             height="48"
+             x="224"
+             y="-752" />
+          <rect
+             style="fill:#000000"
+             id="rect3905"
+             width="64"
+             height="48"
+             x="352"
+             y="-752" />
+          <rect
+             style="fill:#000000;stroke-width:1.41421354"
+             id="rect3907"
+             width="64"
+             height="48"
+             x="480"
+             y="-752" />
+          <rect
+             style="fill:#000000"
+             id="rect3912"
+             width="64"
+             height="48"
+             x="96"
+             y="-752" />
+          <rect
+             style="fill:#000000"
+             id="rect3914"
+             width="64"
+             height="48"
+             x="-32"
+             y="-752" />
+        </g>
+        <rect
+           y="-752"
+           x="224"
+           height="48"
+           width="64"
+           id="rect3923"
+           style="fill:#000000" />
+        <rect
+           y="-752"
+           x="352"
+           height="48"
+           width="64"
+           id="rect3925"
+           style="fill:#000000" />
+        <rect
+           y="-752"
+           x="96"
+           height="48"
+           width="64"
+           id="rect3929"
+           style="fill:#000000" />
+        <rect
+           y="-752"
+           x="-32"
+           height="48"
+           width="64"
+           id="rect3931"
+           style="fill:#000000" />
+      </g>
+      <g
+         id="g3973"
+         transform="translate(0,496)"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <g
+           transform="translate(-64,-32)"
+           id="g3963">
+          <rect
+             y="-752"
+             x="224"
+             height="48"
+             width="64"
+             id="rect3953"
+             style="fill:#000000" />
+          <rect
+             y="-752"
+             x="352"
+             height="48"
+             width="64"
+             id="rect3955"
+             style="fill:#000000" />
+          <rect
+             y="-752"
+             x="480"
+             height="48"
+             width="64"
+             id="rect3957"
+             style="fill:#000000;stroke-width:1.41421354" />
+          <rect
+             y="-752"
+             x="96"
+             height="48"
+             width="64"
+             id="rect3959"
+             style="fill:#000000" />
+          <rect
+             y="-752"
+             x="-32"
+             height="48"
+             width="64"
+             id="rect3961"
+             style="fill:#000000" />
+        </g>
+        <rect
+           style="fill:#000000"
+           id="rect3965"
+           width="64"
+           height="48"
+           x="224"
+           y="-752" />
+        <rect
+           style="fill:#000000"
+           id="rect3967"
+           width="64"
+           height="48"
+           x="352"
+           y="-752" />
+        <rect
+           style="fill:#000000"
+           id="rect3969"
+           width="64"
+           height="48"
+           x="96"
+           y="-752" />
+        <rect
+           style="fill:#000000"
+           id="rect3971"
+           width="64"
+           height="48"
+           x="-32"
+           y="-752" />
+      </g>
+      <rect
+         style="fill:#000000;stroke-width:0.44721359"
+         id="rect3975"
+         width="512"
+         height="16"
+         x="-64"
+         y="-352" />
+    </g>
+  </g>
+</svg>
